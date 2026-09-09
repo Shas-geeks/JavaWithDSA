@@ -1,9 +1,6 @@
-package Algorithms;
+package algorithms.arrays;
 
-import java.util.Collection;
 import java.util.Scanner;
-
-import static java.util.Collections.swap;
 
 public class DNF_Algo {
     public static void swap(int [] nums, int idx1,int idx2){
